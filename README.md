@@ -1,2 +1,2 @@
 # VibeChilling
-Un juego hecho con claude
+Un juego hecho con claude para testear sus capacidades.
